@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Pixel Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Naga Ishita P B</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
