@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Pixel Banner" width="100%" />
+  <img src="banner.png.png" alt="Pixel Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Naga Ishita P B</h1>
